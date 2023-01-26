@@ -1,0 +1,30 @@
+Hello!!
+My name is Juhi Kumari.I am from Bihar currently studying in 3rd year in the department
+of Information Technology in vignan university,Andhrapradesh.
+
+This website I have dedicated to my elder brother his name is Jayshanker karn(Bobby Karn).
+I have tried to just utilize my knowledge .And created this Personal Photography website.
+my brother loves photography and i have implemented this for him.
+I have taken all the photos clicked by him and uploaded on the website .
+Note:-All photos are taken and edited  by him . the Tools he used to take photos is Mobile phone (before vivo later iphone 10).
+
+
+---------------------------------Website Description--------------------------------
+Language Used : Html,Css,Javascript
+Software:Netbeans
+
+There is home page which includes differrent containers in this body.
+upper is header which has different menu options like :
+(a)home which redirect you the same page.
+(b)Gallery which contains different photos clicked by him.
+(c)About which has his little information
+(d)workshop which has all the workshop he has attended.
+(e)Blog which has all description of the palces he has visited.
+(f)Contact where we can contact to him using email message.
+
+in the header section Links for Instagram ,Facebook and Youtube is given by clicking there u can redirect to his social Media.
+For more enquiry email us:juhikumari3454@gmail.com
+
+
+                                                                                  Thank You!!!
+
